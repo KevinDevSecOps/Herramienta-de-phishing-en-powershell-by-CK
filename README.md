@@ -20,7 +20,7 @@ Antes de ejecutar el código, asegúrate de cumplir con los siguientes requisito
 
 Instalación y Ejecución
 
-1. Clona el repositorio en tu máquina local: git clone https://github.com/tu-usuario/phishing-educativo.git
+1. Clona el repositorio en tu máquina local: git clone https://github.com/KevinDevSecOps/phishing-educativo.git
 cd phishing-educativo
 
 2. Habilita la ejecución de scripts PowerShell (si no está habilitada):
