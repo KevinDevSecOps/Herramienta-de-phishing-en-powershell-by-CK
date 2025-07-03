@@ -9,7 +9,7 @@ Como contribuyentes y mantenedores, nos comprometemos a fomentar un ambiente abi
 - No toleramos acoso de ningún tipo.
 
 ## Reportar problemas
-Si encuentras un comportamiento que infrinja este código de conducta, por favor, repórtalo a [tu-email@ejemplo.com].
+Si encuentras un comportamiento que infrinja este código de conducta, por favor, repórtalo a kpcoolkids@gmail.com].
 
 ---
 ¡Gracias por ayudarnos a construir una comunidad inclusiva! 🌟
