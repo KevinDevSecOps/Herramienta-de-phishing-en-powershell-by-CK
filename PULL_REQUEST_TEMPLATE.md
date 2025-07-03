@@ -1,4 +1,4 @@
-git clone https://github.com/tu-usuario/Phishing-Educativo-PowerShell.git
+git clone https://github.com/KevinDevSecOps/Phishing-Educativo-PowerShell.git
 cd Phishing-Educativo-PowerShell
 git checkout -b mi-contribucion
 .\phishing.ps1
