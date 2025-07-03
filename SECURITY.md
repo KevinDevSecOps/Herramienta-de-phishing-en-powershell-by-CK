@@ -3,7 +3,7 @@
 ## Cómo reportar problemas de seguridad
 Si encuentras vulnerabilidades o riesgos en este código, por favor, repórtalo de manera responsable.
 
-- Correo: [tu-email-de-seguridad@ejemplo.com]
+- Correo: [kpcookids@gmai.com]
 - Política de divulgación: Divulgación responsable únicamente.
 
 ---
