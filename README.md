@@ -1,3 +1,10 @@
+# 🛡️ Phishing en PowerShell - ¡Explora y aprende sobre ciberseguridad!
+
+¡Bienvenido a este repositorio! Aquí exploramos un ejemplo básico de cómo los atacantes pueden construir una página de phishing utilizando PowerShell. Por favor, utiliza este proyecto de manera ética y responsable. 🚀
+
+> **Nota:** Este proyecto es educativo. ¡Recuerda que con gran poder viene gran responsabilidad! 🕸️
+
+(El resto del README sigue igual, pero con un tono más amigable.)
 Phishing en PowerShell - Uso Educativo
 
 Este repositorio contiene un ejemplo básico de un servidor web creado en PowerShell que simula una página de phishing. Este proyecto está destinado únicamente para fines educativos y para concienciar sobre los riesgos de ataques de phishing. No debe ser utilizado para actividades malintencionadas o ilegales.
